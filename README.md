@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HanumeshGupta
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Java 
+- 🌱 I’m currently learning Machine Learning 
 - 💞️ I’m looking to collaborate on on any project
 - 📫 How to reach me contact me through hanumeshgupta2907@gmail.com
 
