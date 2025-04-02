@@ -28,9 +28,9 @@ I'm passionate about **coding, machine learning, and building innovative applica
 ---
 
 ### 🔢 Algorithm & Data Science Projects  
-- **[Check Digit Recognizing](https://github.com/HanumeshGupta/Check-Digit-Recognizing))** – Recognizes digits from mathematical formulas.  
-- **[Image Capturing](https://github.com/HanumeshGupta/Check-Digit-Recognizing))** – Captures images and uses ML to train models.
-- **[CodSoft](https://github.com/HanumeshGupta/CodSoft))** – This Repo Contain many project related to CodSoft Internship Work. 
+- **[Check Digit Recognizing](https://github.com/HanumeshGupta/Check-Digit-Recognizing)** – Recognizes digits from mathematical formulas.  
+- **[Image Capturing](https://github.com/HanumeshGupta/Check-Digit-Recognizing)** – Captures images and uses ML to train models.
+- **[CodSoft](https://github.com/HanumeshGupta/CodSoft)** – This Repo Contain many project related to CodSoft Internship Work. 
 
 ---
 
