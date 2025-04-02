@@ -45,7 +45,9 @@ I'm open to working on **Machine Learning, Data Science, Web Apps, and Automatio
 
 📫 **Reach Me At:**  
 - **Email:** hanumeshgupta2907@gmail.com  
-- **LinkedIn:** [Hanumesh Gupta](https://www.linkedin.com/in/hanumesh-gupta)  
+- **LinkedIn:** [Hanumesh Gupta](https://www.linkedin.com/in/hanumesh-gupta)
+- **HackerRank** [Hanumesh_Gupta](https://www.hackerrank.com/profile/hanumeshgupta291)
+- **LeetCode** [Hanumesh Gupta](https://leetcode.com/u/Hanumesh_Gupta/)
 
 ---
 
