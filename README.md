@@ -34,7 +34,10 @@ I'm passionate about **coding, machine learning, and building innovative applica
 - **[Translate_English-Hindi](https://github.com/HanumeshGupta/Translate_English-Hindi)** – Translate English Text to Hindi Text.
 
 ---
-
+### 🤖 LLM & AI-Powered Projects
+**[QuizBot / MCQ Generator](https://github.com/HanumeshGupta/QuizBot)** – Takes PDF input and generates multiple-choice questions using an inbuilt LLM model from Ollama.
+      Contributor:- [Tanisha Srivastava](https://github.com/Tanisha3005) , [Harsh Tripathi](https://github.com/HarshTripathi19) and [Aditya Gupta](https://github.com/xAdityaxx)
+---
 ## 📚 Currently Learning  
 - Advanced Machine Learning  
 - Deep Learning (TensorFlow, PyTorch)  
