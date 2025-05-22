@@ -13,6 +13,7 @@ I'm passionate about **coding, machine learning, and building innovative applica
 - **[Fashion MNIST Recognition](https://github.com/HanumeshGupta/Fashion_Mnist_Recognition)** – Recognizes clothing items from images using CNN.  
 - **[Digit Recognizer](https://github.com/HanumeshGupta/Check-Digit-Recognizing)** – Handwritten digit classification using deep learning.  
 - **[Machine Learning](https://github.com/HanumeshGupta/Machine_Learning)** – This contain many other work of machine learning that can help you grow.
+- **[Dog Emotion Prediction](https://github.com/HanumeshGupta/Dog_Emotion_Prediction)** – This project uses a transfer learning model (MobileNetV2) to classify dog emotions based on an image.
 
 ---
 
