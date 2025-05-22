@@ -51,6 +51,7 @@ I'm open to working on **Machine Learning, Data Science, Web Apps, and Automatio
 - **LinkedIn:** [Hanumesh Gupta](https://www.linkedin.com/in/hanumesh-gupta)
 - **HackerRank** [Hanumesh Gupta](https://www.hackerrank.com/profile/hanumeshgupta291)
 - **LeetCode** [Hanumesh Gupta](https://leetcode.com/u/Hanumesh_Gupta/)
+- **Kaggle** [Hanumesh Gupta](https://www.kaggle.com/hanumeshgupta)
 
 ---
 
