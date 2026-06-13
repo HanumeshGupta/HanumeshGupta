@@ -14,6 +14,7 @@ I'm passionate about **coding, machine learning, and building innovative applica
 - **[Digit Recognizer](https://github.com/HanumeshGupta/Check-Digit-Recognizing)** – Handwritten digit classification using deep learning.  
 - **[Machine Learning](https://github.com/HanumeshGupta/Machine_Learning)** – This contain many other work of machine learning that can help you grow.
 - **[Dog Emotion Prediction](https://github.com/HanumeshGupta/Dog_Emotion_Prediction)** – This project uses a transfer learning model (MobileNetV2) to classify dog emotions based on an image.
+- **[Lung Cancer Classification using CT Scan Images](https://github.com/HanumeshGupta/LungsCancer_Cell_Image)** - This project uses a transfer learning model (DenseNet) to classify different Stages of Cancer using cell Image.
 
 ---
 
