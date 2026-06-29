@@ -16,6 +16,7 @@ I'm passionate about **coding, machine learning, and building innovative applica
 - **[Dog Emotion Prediction](https://github.com/HanumeshGupta/Dog_Emotion_Prediction)** – This project uses a transfer learning model (MobileNetV2) to classify dog emotions based on an image.
 - **[Lung Cancer Classification using CT Scan Images](https://github.com/HanumeshGupta/LungsCancer_Cell_Image)** - This Project uses a Transfer Learning model (DenseNet) to classify different types of lung cancer using CT Scan images.
 - **[COVID-19 Detection Model](https://github.com/HanumeshGupta/Covid-19_Detection_Model)** - This Project uses Deep Learning with DenseNet architecture to detect COVID-19 and classify Chest X-Ray images into different respiratory conditions.
+- **[Movie Review Sentiment Analysis](https://github.com/HanumeshGupta/Movie-Review-Sentiment-Analysis)** - This project leverages Natural Language Processing (NLP) and Deep Learning techniques to compare Feed-Forward ANN and LSTM models for accurately classifying IMDB movie reviews into positive and negative sentiments.
 
 ---
 
